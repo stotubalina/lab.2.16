@@ -1,0 +1,17 @@
+[
+    {
+        "flight_destination": "Biisk",
+        "flight_number": "938",
+        "airplane_type": "Passenger"
+    },
+    {
+        "flight_destination": "Krasnodar",
+        "flight_number": "248",
+        "airplane_type": "Passenger"
+    },
+    {
+        "flight_destination": "Stavropol",
+        "flight_number": "254",
+        "airplane_type": "Passenger"
+    }
+]
